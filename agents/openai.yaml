@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频观点拆解报告"
+  short_description: "拆解 B站与小红书视频观点、证据和逻辑并生成飞书云文档报告"
+  default_prompt: "使用 $video-viewpoint-report 分析这个 B站或小红书视频链接，并生成飞书云文档报告。"
