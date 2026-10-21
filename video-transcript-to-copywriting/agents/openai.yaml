@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频字幕转原创文案"
+  short_description: "把视频字幕整理为可追溯的原创中文文案"
+  default_prompt: "使用 $video-transcript-to-copywriting，把这份视频字幕改写成适合目标平台的原创文案，并标明需要核验的事实。"
